@@ -14,4 +14,4 @@ In Nuttshell you study starting upto ending java code.
   <li>Scientific & Research Community</li>
 </ul>  
 
-<h6>Content Will be updated Soon!!!!!1</h6>
+<h6>Content Will be updated Soon!!!!!</h6>
